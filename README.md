@@ -9,7 +9,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="right" alt="Joao-gf" height="150" style="border-radius:50%" src="https://user-images.githubusercontent.com/101131645/159142618-aa204531-5042-4086-9893-82afe87483aa.gif">
 </div>
   
    ##
