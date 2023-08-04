@@ -1,7 +1,7 @@
 ### 👋 Hello World, I'm João Pedro! 🌎 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrojoaovr&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojoaovr&layout=compact)](https://github.com/pedrojoaovr/github-readme-stats)
 
 <div style="display: inline_block"><br>
